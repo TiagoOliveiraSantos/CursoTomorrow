@@ -1,5 +1,7 @@
 # Programação de Computadores com Python - Curso Towmoron
-<h2>Repositório para entrega da lista de exercícios.</h2>
+<h1>Repositório para entrega da lista de exercícios.</h1>
+
+<h2>Lista 1 de exercícios</h2>
 
 <p>1 - (UESB) Elaborar um programa Python para somar dois números e imprima-los.</p>
 
