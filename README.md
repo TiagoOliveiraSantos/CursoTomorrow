@@ -1,5 +1,5 @@
 # Programação de Computadores com Python - Curso Towmoron
-<h1>Repositório para entrega da lista de exercícios.</h1>
+<h1>Repositório para entrega das listas de exercícios.</h1>
 
 <h2>Lista 1 de exercícios</h2>
 
