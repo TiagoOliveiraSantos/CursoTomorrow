@@ -1,0 +1,1 @@
+O excercício 1 está duplicado (2)
