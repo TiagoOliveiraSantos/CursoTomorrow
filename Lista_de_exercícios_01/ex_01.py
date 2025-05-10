@@ -3,4 +3,4 @@ numero_02 = int(input('Digite o segundo valor: '))
 
 soma = numero_01 + numero_02
 
-print(f'{numero_01} + {numero_02} = {soma}')
+print(f'({numero_01} + {numero_02}) = {soma}')
