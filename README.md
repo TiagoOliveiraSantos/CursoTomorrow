@@ -1,4 +1,4 @@
-# Programação de Computadores com Python - Curso Towmoron
+# Programação de Computadores com Python - Curso Tomorrow
 <h1>Repositório para entrega das listas de exercícios.</h1>
 
 <h2>Lista 1 de exercícios</h2>
