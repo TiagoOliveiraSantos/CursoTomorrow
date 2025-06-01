@@ -1,6 +1,5 @@
 import socket
 import json
-import random
 from cryptography.fernet import Fernet
 from chave import chave
 
@@ -19,7 +18,6 @@ print(f"Conectado a {addr}")
 mensagem_criptografada = conn.recv(1024)
 mensagem = fernet.decrypt(mensagem_criptografada).decode()
 
-# Convertendo JSON de volta para dicionário
 dados = json.loads(mensagem)
 
 print(f"Temperatura: {dados['temperatura']}°C, Umidade: {dados['umidade']}%")
