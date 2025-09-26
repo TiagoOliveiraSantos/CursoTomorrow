@@ -1,0 +1,10 @@
+        /*Definindo a fonte Inter como padrão */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /*Estilo para a transição suave de altura*/
+        .resultado-container {
+            transition: all 0.3s ease-in-out;
+            overflow: hidden;
+
+        }
